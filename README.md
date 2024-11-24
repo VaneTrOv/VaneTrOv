@@ -85,7 +85,7 @@
         </section>
         <!-- Foto -->
         <section class="photo">
-            <img src="https://via.placeholder.com/150" alt="Foto de Benjamin">
+            <img src="https://drive.google.com/drive/u/1/home" alt="Foto">
         </section>
         <!-- Habilidades -->
         <section class="skills">
